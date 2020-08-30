@@ -1,0 +1,8 @@
+missing letter:
+Uppercase	:B, C, D, E, K, N, O, R, U, X 
+Lowercase	:f, h, o, p, v, x, z
+
+cleared letters:
+Uppercase	:A, I
+Lowercase	:a, b, c, d, e, g, i, j, k, l, m, n, r, q, s, t, u, 
+		 w, y.
